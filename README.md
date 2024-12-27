@@ -14,6 +14,7 @@ As Part of the same you can:
 - A Task can have Due Date, Priority and Status
 - `Priority` of a Task can be `HIGH`, `MEDIUM`, `LOW`
 - `Status` of a Task can be `OPEN`, `CLOSED`
+- For now an H2Database is used whose content gets deleted once application is restarted
 
 <br><br>
 
